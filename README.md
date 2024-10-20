@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=my+firewall+has+trust+issues%F0%9F%A4%A8" alt="type shit" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dynamicxd&label=Profile%20views&color=7289da&style=flat" alt="dynamicxd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dynamicxd&label=Profile%20views&color=7289da&style=flat&abbreviated=true" alt="dynamicxd" /> </p>
 
 [![Profile Github Stats](https://github-readme-stats.vercel.app/api?username=dynamicxd&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
