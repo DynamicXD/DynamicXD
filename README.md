@@ -9,4 +9,4 @@
 
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=dynamicxd&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><a href="https://ko-fi.com/dynamicxd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="35" alt="dynamicxd" target="_blank" /></a></p><br>
+<p><a href="https://ko-fi.com/dynamicxd" target="_blank"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="35" alt="dynamicxd" /></a></p><br>
